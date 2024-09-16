@@ -1,7 +1,7 @@
 {
 	"name": "Petroleum Generator",
 	"description": "Produces power using petroleum.",
-	"type": "SingleTypeGenerator",
+	"type": "ConsumeGenerator",
 	"powerProduction": 15.0,
 	"consumes": [{
 		"item": "petroleum-container", "amount" : 1
